@@ -4,9 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Theertha+%F0%9F%91%8B;AI%2FML+Engineering+Student+%40+AIET;Building+with+GenAI+%2B+PyTorch+%2B+GCP;Real-time+Object+Detection+%7C+94.48%25+Accuracy)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=edtheertha&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/edtheertha)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-edtheertha-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/edtheertha)
-[![Email](https://img.shields.io/badge/Email-edtheertha%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:edtheertha@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Theertha-ed&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/Theertha-ed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Theertha-ed-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Theertha-ed)
+[![Email](https://img.shields.io/badge/Email-Theertha-ed%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Theertha-ed@gmail.com)
 
 </div>
 
@@ -92,11 +92,11 @@ print(me.motto())
 
 <div align="center">
 
-<a href="https://github.com/edtheertha">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=edtheertha&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+<a href="https://github.com/Theertha-ed">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Theertha-ed&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/edtheertha">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edtheertha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<a href="https://github.com/Theertha-ed">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theertha-ed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
@@ -107,7 +107,7 @@ print(me.motto())
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=edtheertha&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Theertha-ed&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
@@ -117,7 +117,7 @@ print(me.motto())
 
 <div align="center">
 
-[![Theertha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=edtheertha&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/edtheertha)
+[![Theertha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Theertha-ed&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/Theertha-ed)
 
 </div>
 
@@ -127,7 +127,7 @@ print(me.motto())
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=edtheertha&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/edtheertha)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Theertha-ed&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/Theertha-ed)
 
 </div>
 
